@@ -17,6 +17,9 @@ namespace RiotBack.Controllers
         [HttpGet]
         public string Get()
         {
+
+
+            asdasdasdasdasdasdasd;
             return "Jax";
         }
 
