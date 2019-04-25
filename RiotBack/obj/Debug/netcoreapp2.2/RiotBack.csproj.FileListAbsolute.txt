@@ -1,0 +1,14 @@
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\bin\Debug\netcoreapp2.2\RiotBack.deps.json
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\bin\Debug\netcoreapp2.2\RiotBack.runtimeconfig.json
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\bin\Debug\netcoreapp2.2\RiotBack.runtimeconfig.dev.json
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\bin\Debug\netcoreapp2.2\RiotBack.dll
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\bin\Debug\netcoreapp2.2\RiotBack.pdb
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\obj\Debug\netcoreapp2.2\RiotBack.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\obj\Debug\netcoreapp2.2\RiotBack.RazorAssemblyInfo.cache
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\obj\Debug\netcoreapp2.2\RiotBack.RazorAssemblyInfo.cs
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\obj\Debug\netcoreapp2.2\RiotBack.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\obj\Debug\netcoreapp2.2\RiotBack.AssemblyInfo.cs
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\obj\Debug\netcoreapp2.2\RiotBack.RazorTargetAssemblyInfo.cache
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\obj\Debug\netcoreapp2.2\RiotBack.dll
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\obj\Debug\netcoreapp2.2\RiotBack.pdb
+C:\Users\Desarrollo\Source\Repos\JZunigaV\RiotApiBack\RiotBack\obj\Debug\netcoreapp2.2\RiotBack.csprojAssemblyReference.cache
